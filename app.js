@@ -3,7 +3,7 @@ const candidates = [
         img: "./images/unconcious.jpg",
         name: "Namoral Thy",
         job: "Front-End Developer",
-        info: "Hi! I'm currently a first year Mathematics and Computer Science. I love to study about web development in my free times and I'm very enjoyed doing projects!"
+        info: "Hi! I'm currently a first year Mathematics and Computer Science student. I love to study about web development in my free times and I'm very enjoyed doing projects!"
     },
     {
         img: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
